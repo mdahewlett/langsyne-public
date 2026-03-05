@@ -2,15 +2,19 @@
 
 A mobile app that helps you remember to reach out to the friends you don't see every day.
 
-<p align="center">
+<div align="center">
   <a href="https://apps.apple.com/ca/app/langsyne/id6759466398">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="185" alt="Download on the App Store" style="vertical-align: middle;" />
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="185" alt="Download on the App Store" />
   </a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=app.langsyne">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="230" alt="Get it on Google Play" style="vertical-align: middle;" />
-  </a>
+</div>
+
+<p> 
 </p>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=app.langsyne">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="230" alt="Get it on Google Play" />
+  </a>
+</div>
 
 Developed by **Michael Hewlett**
 
