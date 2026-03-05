@@ -8,8 +8,6 @@ A mobile app that helps you remember to reach out to the friends you don't see e
   </a>
 </div>
 
-<p> 
-</p>
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=app.langsyne">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="230" alt="Get it on Google Play" />
